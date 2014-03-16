@@ -3,7 +3,7 @@ layout: default
 title: About this Site
 created: 1232807141
 navbar: About
-permalink: "/about-site/"
+permalink: "/about-site/index.html"
 ---
 
 # About this Site
